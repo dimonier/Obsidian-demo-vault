@@ -1,0 +1,46 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "diary",
+      "template": "templates/Шаблон дневника.md"
+    },
+    {
+      "folder": "3 Resources/Люди",
+      "template": "templates/Шаблон - человек.md"
+    },
+    {
+      "folder": "/",
+      "template": "templates/Шаблон заметки.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "templates/Шаблон заголовка с текущей датой.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

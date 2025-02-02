@@ -1,0 +1,10 @@
+{
+  "accentColor": "#9ebeff",
+  "cssTheme": "Things",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "naked embeds"
+  ],
+  "baseFontSize": 15,
+  "showViewHeader": true
+}
