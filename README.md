@@ -11,4 +11,4 @@
    ![](files/Pasted%20image%2020240801164623.png)
 8. Закрыть окно настроек Obsidian и приступить к работе.
 
-Курс по Obsidian для начинающих: https://www.youtube.com/watch?v=CKRgUveNZx8&list=PLeDR6lYFEHWEUxwSA8OplPLvk50DCVraH&index=1
+Курс по Obsidian для начинающих: [YouTube](https://www.youtube.com/watch?v=CKRgUveNZx8&list=PLeDR6lYFEHWEUxwSA8OplPLvk50DCVraH&index=1)
