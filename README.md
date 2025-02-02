@@ -1,14 +1,14 @@
 ## Начало работы
 
 1. Зайти на страницу репозитория демо-хранилища и загрузить хранилище в виде ZIP-файла:
-   ![[Pasted image 20250202212814.png]]
+   ![](files/Pasted%20image%2020250202212814.png)
 2. Распаковать его в отдельную папку.
 5. Загрузить и установить приложение Obsidian с сайта  [Obdisian.md](https://obsidian.md/), если это ещё не сделано.
 6. Открыть папку с хранилищем, созданную на шаге 2, как хранилище заметок Obsidian:
-   ![[Pasted image 20240801164533.png]]
-   ![[Pasted image 20250202214823.png]]
+   ![](files/Pasted%20image%2020240801164533.png)
+   ![](files/Pasted%20image%2020250202214823.png)
 7. Подтвердить доверие автору и включение сторонних плагинов:
-   ![[Pasted image 20240801164623.png]]
+   ![](files/Pasted%20image%2020240801164623.png)
 8. Закрыть окно настроек Obsidian и приступить к работе.
 
 Курс по Obsidian для начинающих: https://www.youtube.com/watch?v=CKRgUveNZx8&list=PLeDR6lYFEHWEUxwSA8OplPLvk50DCVraH&index=1
